@@ -8,14 +8,14 @@ Chrome Dev(113.0.5668.0) アクセス可　確認日時：2023/03/25　確認OS�
 Chromium(111.0.5529.0)　アクセス可　確認日時：2023/03/25　確認OS：Windows10  
 Edge(111.0.1661.51)　アクセス可　確認日時：2023/03/25　確認OS：Windows10  
 ## Internet Explorer
-Internet Explorer 1 アクセス  
-Internet Explorer 2 アクセス  
-Internet Explorer 3 アクセス  
-Internet Explorer 4 アクセス  
-Internet Explorer 5 アクセス  
-Internet Explorer 6 アクセス  
-Internet Explorer 7 アクセス  
-Internet Explorer 8 アクセス  
-Internet Explorer 9 アクセス  
-Internet Explorer 10 アクセス  
+Internet Explorer 1 アクセス不可　理由：TLS1.2に非対応　確認日時：2023/03/25　確認OS：なし(XPで接続不可のため)  
+Internet Explorer 2 アクセス不可　理由：TLS1.2に非対応　確認日時：2023/03/25　確認OS：なし(XPで接続不可のため)  
+Internet Explorer 3 アクセス不可　理由：TLS1.2に非対応　確認日時：2023/03/25　確認OS：なし(XPで接続不可のため)  
+Internet Explorer 4 アクセス不可　理由：TLS1.2に非対応　確認日時：2023/03/25　確認OS：なし(XPで接続不可のため)  
+Internet Explorer 5 アクセス不可　理由：TLS1.2に非対応　確認日時：2023/03/25　確認OS：なし(XPで接続不可のため)  
+Internet Explorer 6 アクセス不可　理由：TLS1.2に非対応　確認日時：2023/03/25　確認OS：WindowsXP  
+Internet Explorer 7 アクセス不可　理由：TLS1.2に非対応　確認日時：2023/03/25　確認OS：WindowsXP  
+Internet Explorer 8 アクセス不可　理由：TLS1.2に非対応　確認日時：2023/03/25　確認OS：WindowsXP  
+Internet Explorer 9 アクセス未確認　理由：  
+Internet Explorer 10 アクセス未確認　理由：  
 Internet Explorer 11 アクセス不可　理由：構文エラー(/Pic/資料1.pngを参照)　確認日時：2023/03/25　確認OS：Windows10  
