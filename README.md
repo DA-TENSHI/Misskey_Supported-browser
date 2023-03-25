@@ -1,0 +1,2 @@
+# Misskey_Supported-browser
+Misskeyをサポートしているブラウザを載せていくところです。
