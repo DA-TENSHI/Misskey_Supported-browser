@@ -19,3 +19,5 @@ Internet Explorer 8 アクセス不可　理由：TLS1.2に非対応　確認日
 Internet Explorer 9 アクセス未確認　理由：  
 Internet Explorer 10 アクセス未確認　理由：  
 Internet Explorer 11 アクセス不可　理由：構文エラー(/Pic/資料1.pngを参照)　確認日時：2023/03/25　確認OS：Windows10  
+##Firefox系
+Mypal 68.13.1b アクセス可　確認日時:2023-08-23 確認OS:WindowsXP
